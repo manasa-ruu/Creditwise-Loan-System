@@ -18,11 +18,10 @@
 
 ## Project Structure
 
-creditwise-loan-system/
-│
-├── credit_wise.ipynb          # Main Jupyter Notebook
-├── loan_approval_data.csv     # Dataset (not included)
-└── README.md                  #Project documentation
+creditwise-loan-system:
+* credit_wise.ipynb          # Main Jupyter Notebook
+* loan_approval_data.csv     # Dataset (not included)
+* README.md                  #Project documentation
 
 ## Dataset Description
  Each row represents a **loan applicant** with 20 features:
